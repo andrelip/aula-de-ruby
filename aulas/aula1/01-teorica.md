@@ -6,7 +6,7 @@ A instalação do Ruby pode ser um pouco complicada para iniciantes e não quero
 
 Acesse http://tryruby.org/
 
-Lá sempre, que vocês digitar uma linha de comando, automaticamente na linha de baixe teremos o resultado da execução do código ao apertarmos `enter`.
+Lá sempre, que vocês digitar uma linha de comando, automaticamente na linha de baixo teremos o resultado da execução do código ao apertarmos `enter`.
 
 Interpretem o símbolo `=>` como sendo o retorno do que foi executado.
 
