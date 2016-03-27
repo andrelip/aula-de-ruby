@@ -1,6 +1,6 @@
 # Aula 1
 
-A instalação do Ruby pode ser um pouco complicada para iniciantes e não quero que isso seja uma barreita, então nesse primeiro momento iremos utilizar um ruby online.
+A instalação do Ruby pode ser um pouco complicada para iniciantes e não quero que isso seja uma barreira, então nesse primeiro momento iremos utilizar um ruby online.
 
 ## Utilizando o TryRuby
 
