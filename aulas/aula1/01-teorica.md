@@ -29,8 +29,8 @@ Exemplo:
 ### Inteiro (int ou integer)
 São número inteiros, logo sem decimal.
 ```ruby
-1 + 5
-=> 6
+10 + 5
+=> 15
 ```
 
 ```ruby
@@ -38,7 +38,8 @@ São número inteiros, logo sem decimal.
 => 5
 ```
 
-### Número decimal (float) # pense nisso como número decimal, embora tenha alguns detales, no momento isso não é importante
+### Número 'decimal' (float)
+Pense neles como se fossem números decimal, embora tenha alguns detales, no momento isso não é nem um pouco relevante.
 
 ```ruby
 10.5
@@ -56,6 +57,8 @@ São número inteiros, logo sem decimal.
 ```
 
 ### Texto (string)
+Sempre que o nosso dado for um texto, ele será uma string. Para isso o texto em questão deve estar envolto de aspas ou aspas duplas, explicarei a diferença quando for relevante.
+
 ```ruby
 'Olá'
 => 'Olá'
@@ -65,7 +68,9 @@ São número inteiros, logo sem decimal.
 => 'Olá mundo'
 ```
 
-### Booleano # Verdadeiro ou Falso
+### Booleano
+Só pode ter dois valores, verdadeiro ou falso.
+
 ```ruby
 true
 => true
