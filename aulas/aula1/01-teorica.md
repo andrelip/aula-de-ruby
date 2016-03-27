@@ -97,54 +97,82 @@ false # true quando for falso
 
 != # Retorna verdadeiro se o valor da esquerda é diferente forem diferentes. Caso contrário retorna falso.
 
+```ruby
 4 != 5
 => true
+```
 
+```ruby
 4 != 4
 => false
+```
 
 > # Retorna verdadeiro apenas se o valor da ESQUERDA for MAIOR que o da direita. Caso contrário retorna falso, mesmo que sejam iguais.
 
+```ruby
 5 > 4
 => true
+```
 
+```ruby
 5 > 5
 => false
+```
 
+```ruby
 5 > 6
 => false
+```
 
 < # É o oposto do anterior, apenas retorna verdadeiro se o da ESQUERDA for MENOR.
 
+```ruby
 5 < 6
 => true
+```
 
+```ruby
 5 < 2
 => false
+```
 
+```ruby
 5 < 5
 => false
+```
 
 >= # Retorna verdadeiro se o valor da ESQUERDA for MAIOR OU IGUAL ao da direita.
 
+```ruby
 5 >= 4
 => true
+```
 
+```ruby
 5 >= 5
 => true
+```
 
+```ruby
 5 >= 6
 => false
+```
 
 ### <= A mesma coisa do anterior, mas considera que o da ESQUERDA deve ser MENOR OU IGUAL ao da direita
 
+```ruby
 5 <= 6
 => true
+```
 
+```ruby
 5 <= 5
 => true
+```
 
+```ruby
 5 <= 4
 => false
+```
 
 Existem outros, mas por hora vamos nos concetrar nesses seis principais.
