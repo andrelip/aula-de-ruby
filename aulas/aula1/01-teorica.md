@@ -72,8 +72,8 @@ Sempre que o nosso dado for um texto, ele será uma string. Para isso o texto em
 Só pode ter dois valores, verdadeiro ou falso.
 
 ```ruby
-true
-=> true
+true # true quando for verdadeiro
+=> true # Como não realizamos nenhuma operação, então a execução retorna o seu próprio valor.
 ```
 
 ```ruby
