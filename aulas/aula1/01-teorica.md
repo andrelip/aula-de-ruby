@@ -86,7 +86,7 @@ false # true quando for falso
 => false
 ```
 
-### Operadores de comparação
+## Operadores de comparação
 
 `==` Retorna verdadeiro se o valor da esquerda e o direita foram iguais. Caso contrário retorna falso.
 
