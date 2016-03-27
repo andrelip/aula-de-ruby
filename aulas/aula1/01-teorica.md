@@ -43,7 +43,7 @@ São número inteiros, logo sem decimal.
 => 5
 ```
 
-### Número 'decimal' (float)
+### "Número decimal" (float)
 Pense neles como se fossem números decimal, embora tenha alguns detales, no momento isso não é nem um pouco relevante.
 
 ```ruby
