@@ -6,7 +6,7 @@ A instalação do Ruby pode ser um pouco complicada para iniciantes e não quero
 
 Acesse http://tryruby.org/
 
-Lá sempre, que vocês digitar uma linha de comando, automaticamente na linha de baixo teremos o resultado da execução do código ao apertarmos `enter`.
+Lá sempre, que vocês digitarem uma linha de comando, automaticamente na linha de baixo teremos o resultado da execução do código ao apertarmos `enter`.
 
 Interpretem o símbolo `=>` como sendo o retorno do que foi executado.
 
@@ -44,7 +44,7 @@ São número inteiros, logo sem decimal.
 ```
 
 ### "Número decimal" (float)
-Pense neles como se fossem números decimal, embora tenha alguns detales, no momento isso não é nem um pouco relevante.
+Pense neles como se fossem números decimais, embora tenha alguns detalhes, no momento isso não é nem um pouco relevante.
 
 ```ruby
 10.5
@@ -74,7 +74,7 @@ Sempre que o nosso dado for um texto, ele será uma string. Para isso o texto em
 ```
 
 ### Booleano
-Só pode ter dois valores, verdadeiro ou falso.
+Só pode ter um dos dois valores, verdadeiro ou falso.
 
 ```ruby
 true # true quando for verdadeiro
