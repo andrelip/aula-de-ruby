@@ -110,6 +110,16 @@ false # true quando for falso
 => false
 ```
 
+```ruby
+true == false
+=> false
+```
+
+```ruby
+false == false
+=> true
+```
+
 
 `!=` Retorna verdadeiro se o valor da esquerda é diferente forem diferentes. Caso contrário retorna falso.
 
