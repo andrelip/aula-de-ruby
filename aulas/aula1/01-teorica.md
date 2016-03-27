@@ -1,4 +1,5 @@
-Antes de começar, vamos ao básico de Ruby.
+# From Zero to Hero
+Um guia sobre programação utilizando Ruby como base e abordando uma didádica de aulas teóricas criando um projeto em paralelo.
 
 Considerando que vocês instalarma o Ruby, a primeira coisa é digitar no console a palavra 'irb'.
 Isso vai abrir o terminal para vocês.
