@@ -2,7 +2,7 @@
 
 A instalação do Ruby pode ser um pouco complicada para iniciantes e não que isso seja uma barreita, então nesse primeiro momento iremos utilizar um console online.
 
-## Utilizando o tryruby
+## Utilizando o TryRuby
 
 Acesse http://tryruby.org/
 
@@ -10,13 +10,13 @@ Lá sempre, que vocês digitar uma linha de comando, automaticamente na linha de
 
 Interpretem o símbolo `=>` como sendo o retorno do que foi executado.
 
-### Exemplo:
+Exemplo:
 ```ruby
 2 + 1
 => 3
 ```
 
-Operadores aritiméticos:
+## Operadores aritiméticos:
 + Soma
 - Subtração
 * Multiplicação
@@ -24,9 +24,9 @@ Operadores aritiméticos:
 % Apenas o resto da divisão
 ** Exponencial
 
-Tipos básicos:
+## Tipos básicos:
 
-Inteiro (int ou integer)
+### Inteiro (int ou integer)
 São número inteiros, logo sem decimal.
 1 + 5
 => 6
@@ -34,7 +34,7 @@ São número inteiros, logo sem decimal.
 6 - 1
 => 5
 
-Número decimal (float) # pense nisso como número decimal, embora tenha alguns detales, no momento isso não é importante
+### Número decimal (float) # pense nisso como número decimal, embora tenha alguns detales, no momento isso não é importante
 
 10.5
 => 10.5
@@ -45,21 +45,21 @@ Número decimal (float) # pense nisso como número decimal, embora tenha alguns 
 10.0 / 3 # float divido por inteiro
 => 3.3333333333333335 # Como um dos números da operação é decimal, logo o resultado é decimal também
 
-Texto (string)
+### Texto (string)
 "Olá"
 => "Olá"
 
 "Olá " + "mundo"
 "Olá mundo"
 
-Booleano # Verdadeiro ou Falso
+### Booleano # Verdadeiro ou Falso
 true
 => true
 
 false
 => false
 
-Operadores de comparação
+### Operadores de comparação
 
 == # Retorna verdadeiro se o valor da esquerda e o direita foram iguais. Caso contrário retorna falso.
 
@@ -110,7 +110,7 @@ Operadores de comparação
 5 >= 6
 => false
 
-<= # A mesma coisa do anterior, mas considera que o da ESQUERDA deve ser MENOR OU IGUAL ao da direita
+### <= A mesma coisa do anterior, mas considera que o da ESQUERDA deve ser MENOR OU IGUAL ao da direita
 
 5 <= 6
 => true
