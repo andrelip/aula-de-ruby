@@ -77,7 +77,7 @@ true # true quando for verdadeiro
 ```
 
 ```ruby
-false
+false # true quando for falso
 => false
 ```
 
