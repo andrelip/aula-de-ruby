@@ -18,10 +18,15 @@ Exemplo:
 
 ## Operadores aritiméticos:
 `+` Soma
+
 `-` Subtração
+
 `*` Multiplicação
+
 `/` Divisão
+
 `%` Apenas o resto da divisão
+
 `**` Exponencial
 
 ## Tipos básicos:
