@@ -1,18 +1,20 @@
-# From Zero to Hero
+# Aula 1
 
-A instalação do Ruby pode ser um pouco complicada para iniciantes e não desejo que isso seja de forma alguma uma barreita, então iremos começar utilizando um console online.
+A instalação do Ruby pode ser um pouco complicada para iniciantes e não que isso seja uma barreita, então nesse primeiro momento iremos utilizar um console online.
 
-## Utilizando o console online
+## Utilizando o tryruby
 
 Acesse http://tryruby.org/
 
-Lá sempre, que vocês digitam uma linha de comando, automaticamente temos a execução do código e retorno quando apertamos `enter`.
+Lá sempre, que vocês digitar uma linha de comando, automaticamente na linha de baixe teremos o resultado da execução do código ao apertarmos `enter`.
 
 Interpretem o símbolo `=>` como sendo o retorno do que foi executado.
 
-Exemplo:
+### Exemplo:
+```ruby
 2 + 1
 => 3
+```
 
 Operadores aritiméticos:
 + Soma
