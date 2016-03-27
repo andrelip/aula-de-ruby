@@ -83,7 +83,8 @@ false # true quando for falso
 
 ### Operadores de comparação
 
-== # Retorna verdadeiro se o valor da esquerda e o direita foram iguais. Caso contrário retorna falso.
+`==`
+Retorna verdadeiro se o valor da esquerda e o direita foram iguais. Caso contrário retorna falso.
 
 ```ruby
 5 == 5
