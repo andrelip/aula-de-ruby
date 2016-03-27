@@ -1,12 +1,14 @@
 # From Zero to Hero
-Um guia sobre programação utilizando Ruby como base e abordando uma didádica de aulas teóricas criando um projeto em paralelo.
 
-Considerando que vocês instalarma o Ruby, a primeira coisa é digitar no console a palavra 'irb'.
-Isso vai abrir o terminal para vocês.
+A instalação do Ruby pode ser um pouco complicada para iniciantes e não desejo que isso seja de forma alguma uma barreita, então iremos começar utilizando um console online.
 
-Lá sempre, que vocês digitam uma linha de comanda automaticamente temos o retorno do que foi digitado.
+## Utilizando o console online
 
-Leiam o símbolo => como sendo o retorno.
+Acesse http://tryruby.org/
+
+Lá sempre, que vocês digitam uma linha de comando, automaticamente temos a execução do código e retorno quando apertamos `enter`.
+
+Interpretem o símbolo `=>` como sendo o retorno do que foi executado.
 
 Exemplo:
 2 + 1
