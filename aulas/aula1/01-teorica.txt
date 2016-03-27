@@ -1,0 +1,119 @@
+Antes de começar, vamos ao básico de Ruby.
+
+Considerando que vocês instalarma o Ruby, a primeira coisa é digitar no console a palavra 'irb'.
+Isso vai abrir o terminal para vocês.
+
+Lá sempre, que vocês digitam uma linha de comanda automaticamente temos o retorno do que foi digitado.
+
+Leiam o símbolo => como sendo o retorno.
+
+Exemplo:
+2 + 1
+=> 3
+
+Operadores aritiméticos:
++ Soma
+- Subtração
+* Multiplicação
+/ Divisão
+% Apenas o resto da divisão
+** Exponencial
+
+Tipos básicos:
+
+Inteiro (int ou integer)
+São número inteiros, logo sem decimal.
+1 + 5
+=> 6
+
+6 - 1
+=> 5
+
+Número decimal (float) # pense nisso como número decimal, embora tenha alguns detales, no momento isso não é importante
+
+10.5
+=> 10.5
+
+10 / 3 # inteiro divido por inteiro
+=> 3  # O retorno é 3 pois a divisão não considera casas decimais
+
+10.0 / 3 # float divido por inteiro
+=> 3.3333333333333335 # Como um dos números da operação é decimal, logo o resultado é decimal também
+
+Texto (string)
+"Olá"
+=> "Olá"
+
+"Olá " + "mundo"
+"Olá mundo"
+
+Booleano # Verdadeiro ou Falso
+true
+=> true
+
+false
+=> false
+
+Operadores de comparação
+
+== # Retorna verdadeiro se o valor da esquerda e o direita foram iguais. Caso contrário retorna falso.
+
+5 == 5
+=> true
+
+4 == 5
+=> false
+
+!= # Retorna verdadeiro se o valor da esquerda é diferente forem diferentes. Caso contrário retorna falso.
+
+4 != 5
+=> true
+
+4 != 4
+=> false
+
+> # Retorna verdadeiro apenas se o valor da ESQUERDA for MAIOR que o da direita. Caso contrário retorna falso, mesmo que sejam iguais.
+
+5 > 4
+=> true
+
+5 > 5
+=> false
+
+5 > 6
+=> false
+
+< # É o oposto do anterior, apenas retorna verdadeiro se o da ESQUERDA for MENOR.
+
+5 < 6
+=> true
+
+5 < 2
+=> false
+
+5 < 5
+=> false
+
+>= # Retorna verdadeiro se o valor da ESQUERDA for MAIOR OU IGUAL ao da direita.
+
+5 >= 4
+=> true
+
+5 >= 5
+=> true
+
+5 >= 6
+=> false
+
+<= # A mesma coisa do anterior, mas considera que o da ESQUERDA deve ser MENOR OU IGUAL ao da direita
+
+5 <= 6
+=> true
+
+5 <= 5
+=> true
+
+5 <= 4
+=> false
+
+Existem outros, mas por hora vamos nos concetrar nesses seis principais.
