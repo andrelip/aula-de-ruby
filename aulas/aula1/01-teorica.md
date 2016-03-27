@@ -100,6 +100,17 @@ false # true quando for falso
 => false
 ```
 
+```ruby
+'ruby' == 'ruby'
+=> true
+```
+
+```ruby
+'ruby' == 'java'
+=> false
+```
+
+
 `!=` Retorna verdadeiro se o valor da esquerda é diferente forem diferentes. Caso contrário retorna falso.
 
 ```ruby
