@@ -28,46 +28,67 @@ Exemplo:
 
 ### Inteiro (int ou integer)
 São número inteiros, logo sem decimal.
+```ruby
 1 + 5
 => 6
+```
 
+```ruby
 6 - 1
 => 5
+```
 
 ### Número decimal (float) # pense nisso como número decimal, embora tenha alguns detales, no momento isso não é importante
 
+```ruby
 10.5
 => 10.5
+```
 
+```ruby
 10 / 3 # inteiro divido por inteiro
 => 3  # O retorno é 3 pois a divisão não considera casas decimais
+```
 
+```ruby
 10.0 / 3 # float divido por inteiro
 => 3.3333333333333335 # Como um dos números da operação é decimal, logo o resultado é decimal também
+```
 
 ### Texto (string)
-"Olá"
-=> "Olá"
-
-"Olá " + "mundo"
-"Olá mundo"
+```ruby
+'Olá'
+=> 'Olá'
+```
+```ruby
+'Olá ' + 'mundo'
+=> 'Olá mundo'
+```
 
 ### Booleano # Verdadeiro ou Falso
+```ruby
 true
 => true
+```
 
+```ruby
 false
 => false
+```
 
 ### Operadores de comparação
 
 == # Retorna verdadeiro se o valor da esquerda e o direita foram iguais. Caso contrário retorna falso.
 
+```ruby
 5 == 5
 => true
+```
 
+```ruby
 4 == 5
 => false
+```
 
 != # Retorna verdadeiro se o valor da esquerda é diferente forem diferentes. Caso contrário retorna falso.
 
