@@ -8,4 +8,4 @@ Qualquer dúvida pode ser perguntada por mim diretamente no email andrestephano@
 
 ## Como começar
 
-Existe uma pasta "aulas", existem subpastas com uma numeração sequencial, basta seguir e ler sempre a teórica antes da prática.
+Nesse projeto existe uma pasta chamada "aulas", dentro dela você terá subpastas com uma numeração sequencial relativa a cada uma, basta seguir a ordem e lembrar sempre de ler a teórica antes da prática.
