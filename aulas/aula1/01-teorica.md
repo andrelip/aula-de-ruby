@@ -121,7 +121,7 @@ false == false
 ```
 
 
-`!=` Retorna verdadeiro se o valor da esquerda é diferente forem diferentes. Caso contrário retorna falso.
+`!=` Retorna verdadeiro se o valor da esquerda e o da direita forem diferentes. Caso contrário retorna falso.
 
 ```ruby
 4 != 5
