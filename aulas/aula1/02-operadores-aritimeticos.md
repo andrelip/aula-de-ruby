@@ -38,3 +38,4 @@ Muito provavelmente você irá precisar em algum momento do seu programa, realiz
 2 ** 3
 => 8
 ```
+[Parte 3 - Dados](https://github.com/andrelip/ruby-from-zero-to-hero/blob/master/aulas/aula1/03-dados.md)

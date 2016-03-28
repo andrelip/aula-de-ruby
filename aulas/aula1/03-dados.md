@@ -59,3 +59,4 @@ true # true quando for verdadeiro
 false # true quando for falso
 => false
 ```
+[Parte 4 - Comparando](https://github.com/andrelip/ruby-from-zero-to-hero/blob/master/aulas/aula1/04-comparacao.md)

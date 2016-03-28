@@ -1,8 +1,8 @@
-# Parte 4 - Operadores de comparação
+# Parte 4 - Comparando
 
 Uma parte fundamental da programação é executar algo caso uma comparação seja verdadeira ou falsa, como um número ser igual a outro. Antes de chegar lá, irei explicar como executar essas  comparações.
 
-## Principais Operadores
+## Principais Operadores de Comparação
 
 `==` Retorna verdadeiro se o valor da `esquerda` e o `direita` `forem iguais`. Caso contrário retorna falso.
 
