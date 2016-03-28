@@ -1,6 +1,6 @@
 # Aula 1
 
-A instalação do Ruby pode ser um pouco complicada para iniciantes e não quero que isso seja uma barreira, então nesse primeiro momento iremos utilizar um ruby online.
+A instalação do Ruby pode ser um pouco complicada para iniciantes e não quero que isso seja uma barreira, então nesse primeiro momento iremos utilizar uma versão online do ruby.
 
 ## Utilizando o TryRuby
 
@@ -202,3 +202,7 @@ false == false
 ```
 
 Existem outros, mas por hora vamos nos concetrar nesses seis principais.
+
+def asd(x)
+x ** 2
+end
