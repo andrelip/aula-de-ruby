@@ -16,4 +16,6 @@ Exemplo:
 2 + 1
 => 3
 ```
+
+## Continuação
 [Parte 2 - Um pouco de matemática](https://github.com/andrelip/ruby-from-zero-to-hero/blob/master/aulas/aula1/02-operadores-aritimeticos.md)
