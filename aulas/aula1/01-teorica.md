@@ -203,7 +203,3 @@ false == false
 ```
 
 Existem outros, mas por hora vamos nos concetrar nesses seis principais.
-
-def asd(x)
-x ** 2
-end
