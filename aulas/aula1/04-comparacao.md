@@ -118,3 +118,6 @@ false == false
 ```
 
 Existem outros, mas por hora vamos nos concentrar nesses seis principais.
+
+## Continuação
+[Parte 5 - Variáveis](https://github.com/andrelip/ruby-from-zero-to-hero/blob/master/aulas/aula1/05-variaveis.md)
