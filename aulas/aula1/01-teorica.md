@@ -1,6 +1,7 @@
 # Aula 1
 
 A instalação do Ruby pode ser um pouco complicada para iniciantes e não quero que isso seja uma barreira, então nesse primeiro momento iremos utilizar uma versão online do ruby.
+Brinquem um pouco lá e reproduzam os exemplos alterando os valores para entender melhor.
 
 ## Utilizando o TryRuby
 
