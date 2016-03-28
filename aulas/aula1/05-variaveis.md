@@ -1,8 +1,8 @@
 # Parte 5 - Variáveis
 
-Variáveis guardam [dados](https://github.com/andrelip/ruby-from-zero-to-hero/blob/master/aulas/aula1/03-dados.md).
+Variáveis são associadas a [valores](https://github.com/andrelip/ruby-from-zero-to-hero/blob/master/aulas/aula1/03-dados.md).
 
-Se escrevermos algo como `x = 5`, logo `x` vai estar associado ao número 5 e se comportará como se fosse o mesmo.  Em Ruby dizemos que o valor da esquerda recebe o da direita, logo a variável que vai receber o valor precisa ficar na esquerda, e o valor recebido na direita. Isso funciona diferente das equações de matemática, onde `x = 5` é exatamente igual a `5 = x`.
+Se escrevermos algo como `x = 5`, logo `x` vai estar associado ao número 5 e se comportará como se fosse o mesmo. Em Ruby dizemos que o valor da esquerda recebe o da direita. Isso funciona diferente das equações tradicionais de matemática, pois lá `x = 5` é exatamente igual a `5 = x.
 
 ```ruby
 5
