@@ -4,7 +4,7 @@ Uma parte fundamental da programação é executar algo caso uma comparação se
 
 ## Principais Operadores
 
-`==` Retorna verdadeiro se o valor da esquerda e o direita foram iguais. Caso contrário retorna falso.
+`==` Retorna verdadeiro se o valor da `esquerda` e o `direita` `forem iguais`. Caso contrário retorna falso.
 
 ```ruby
 5 == 5
@@ -37,7 +37,7 @@ false == false
 ```
 
 
-`!=` Retorna verdadeiro se o valor da esquerda e o da direita forem diferentes. Caso contrário retorna falso.
+`!=` Retorna verdadeiro se o valor da `esquerda` e o da `direita` `forem diferentes`. Caso contrário retorna falso.
 
 ```ruby
 4 != 5
@@ -49,7 +49,7 @@ false == false
 => false
 ```
 
-`>` Retorna verdadeiro apenas se o valor da ESQUERDA for MAIOR que o da direita. Caso contrário retorna falso, mesmo que sejam iguais.
+`>` Retorna verdadeiro apenas se o valor da `esquerda` for `MAIOR` que o da direita. Caso contrário retorna falso, mesmo que sejam iguais.
 
 ```ruby
 5 > 4
@@ -66,7 +66,7 @@ false == false
 => false
 ```
 
-`<` É o oposto do anterior, apenas retorna verdadeiro se o da ESQUERDA for MENOR.
+`<` É o oposto do anterior, apenas retorna verdadeiro se o da `esquerda` for `MENOR`.
 
 ```ruby
 5 < 6
@@ -83,7 +83,7 @@ false == false
 => false
 ```
 
-`>=` Retorna verdadeiro se o valor da ESQUERDA for MAIOR OU IGUAL ao da direita.
+`>=` Retorna verdadeiro se o valor da `esquerda` for `MAIOR OU IGUAL` ao da direita.
 
 ```ruby
 5 >= 4
@@ -100,7 +100,7 @@ false == false
 => false
 ```
 
-`<=` A mesma coisa do anterior, mas considera que o da ESQUERDA deve ser MENOR OU IGUAL ao da direita
+`<=` A mesma coisa do anterior, mas considera que o da `esquerda` deve ser `MENOR OU IGUAL` ao da direita
 
 ```ruby
 5 <= 6
