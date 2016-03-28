@@ -1,6 +1,6 @@
 # Parte 3 - Dados
 
-Em qualquer aplicação, iremos trabalhar com dados (pense neles como sendo um valor).
+Em qualquer aplicação, iremos trabalhar valores.
 Nessa parte iremos explicar os tipos de dados, como números e texto, e como utilizar-los.
 
 ## Tipos básicos:
