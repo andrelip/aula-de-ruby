@@ -117,4 +117,4 @@ false == false
 => false
 ```
 
-Existem outros, mas por hora vamos nos concetrar nesses seis principais.
+Existem outros, mas por hora vamos nos concentrar nesses seis principais.
