@@ -1,6 +1,6 @@
 # Parte 2 - Um pouco de matemática
 
-Muito provavelmente você irá precisar em algum momento do seu programa, realizar operações matemáticas como soma e divisão. Nos nossos exemplos iremos abusar deles para simplificar o entendimento, então nada mais lógico do que aprender logo no início.
+Muito provavelmente você irá precisar em algum momento do seu programa, realizar operações matemáticas como soma e divisão. Nos nossos exemplos iremos abusar deles nos exemplos, então nada mais lógico do que aprender logo no início.
 
 ## Principais operadores:
 `+` Soma
