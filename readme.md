@@ -4,10 +4,8 @@ Um guia sobre programação utilizando Ruby em pequenas aulas, utilizando uma di
 
 A meta é conseguir dentro do pequeno escopo da aula, o maior número de exemplos e variações, além de uma aplicação prática para diminuir as dúvidas e solidificar o aprendizado.
 
-Qualquer dúvida pode ser enviada por email email `andrestephano@gmail.com`
+Qualquer dúvida pode ser enviada por email `andrestephano@gmail.com`
 
-## Como começar
-
-Nesse projeto existe uma pasta chamada "aulas", dentro dela você terá subpastas com uma numeração sequencial relativa a cada uma, basta seguir a ordem e lembrar sempre de ler a teórica antes da prática.
+## Começando
 
 [Parte 1 - Como Utilizar o Ruby Online](https://github.com/andrelip/ruby-from-zero-to-hero/blob/master/aulas/aula1/01-tryruby.md)
